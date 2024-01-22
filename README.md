@@ -2,4 +2,4 @@
 
 .NET wrapper for the [Varjo SDK](https://github.com/mbucchia/Varjo-SDK).
 
-[Documentation](https://developer.varjo.com/) 
+[Documentation](https://developer.varjo.com/docs/native/varjo-native-sdk)
